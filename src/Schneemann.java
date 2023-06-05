@@ -26,5 +26,7 @@ public class Schneemann{
         nase.setzeFarbe(1,0.5,0);
         nase.verschiebe(pX,0,pZ);
     }
-   
+
+
+
 }
